@@ -1,0 +1,11 @@
+build/
+.vs/
+out/
+*.user
+*.suo
+
+# 不随仓库提交的内容
+docs/
+资料/
+tests/
+q2_typename_test.obj
